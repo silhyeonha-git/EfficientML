@@ -5,6 +5,7 @@
 - 20250921 attention 개념
 - 20250922 self-attention
 - 20250923 토큰화, 임베딩, 인코딩
+- 20250924 self-attention 코드
 
 
 참고 서적: 
