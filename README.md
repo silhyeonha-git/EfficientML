@@ -9,7 +9,7 @@
 - 20250925 
 - 20250926 encoder layer, 2.1 Q 공부
 - 20250927 decoder layer, 응용 모델 (bert)
-
+- 20250928 응용 모델, hugging face
 
 참고 서적: 
 - 머신 러닝 교과서 파이토치 편
