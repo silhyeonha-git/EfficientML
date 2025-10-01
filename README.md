@@ -11,6 +11,8 @@
 - 20250927 decoder layer, 응용 모델 (bert)
 - 20250928 응용 모델, hugging face
 - 20250929 hugging face 모델, tokenizer 로드
+- 20250930 hugging face dataset 로드
+- 20251001 hugging face 모델 학습, wbs 재정의, 컴퓨터 구조
 
 참고 서적: 
 - 머신 러닝 교과서 파이토치 편
